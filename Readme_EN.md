@@ -61,6 +61,6 @@ I can accept that I will be punished for any violations. In fact, I feel that a 
 
 I hope someone can tell me what the reason is and solve it reasonably. Instead of accepting any blows from the sky like this.
 
-I also hope to get your help, I will update the progress, if possible, thank you for your forwarding and share, or if there is a way to help me, thank you for contacting me at bravesummer.liu@gmail.com.
+I also hope to get your help, I will update the progress, if possible, thank you for your reposting and sharing, or if there is a way to help me, thank you for contacting me at bravesummer.liu@gmail.com.
 
 Thank you.
