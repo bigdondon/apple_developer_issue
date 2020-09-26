@@ -3,6 +3,8 @@
 
 After hearing this troublesome issue times from developers, finally, I have encountered it now. My developer account was notified to be terminated on September 26th.
 
+This will cause all my apps to be removed from AppStore.
+
 ### About me
 
 I am Liu Qia, an indie developer.
