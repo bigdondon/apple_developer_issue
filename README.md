@@ -1,3 +1,6 @@
+In English:
+<https://github.com/bigdondon/apple_developer_issue/blob/master/Readme_EN.md>
+
 在听闻了很多开发者遇到过这个令人困扰的问题以后，终于，我现在遇到了它。我的开发者账号在9月26日被通知关停。
 ### 关于我
 我是独立开发者刘恰。
