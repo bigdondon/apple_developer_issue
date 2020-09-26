@@ -1,3 +1,6 @@
+中文：
+<https://github.com/bigdondon/apple_developer_issue/blob/master/README.md>
+
 After hearing that many developers have encountered this troublesome problem, finally, I have encountered it now. My developer account was notified to close on September 26th.
 
 ### about me
