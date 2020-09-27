@@ -59,6 +59,8 @@ But now I am very chilling.
 
 I believe that most indie developers are making apps for their passion. They can't make a lot of money after completing all the roles by one person, just because they are worthy of their love.
 
+We hope to contribute more enthusiasm to indie developer. We should not be treated like this.
+
 I can accept that I will be punished for any violations. In fact, I feel that a developer knows whether he violates the rules, so I don’t understand the their decision.
 
 I hope someone can tell me what the reason is and solve it reasonably. Instead of accepting any blows from the sky like this.
