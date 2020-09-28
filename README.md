@@ -1,6 +1,8 @@
 In English:
 <https://github.com/bigdondon/apple_developer_issue/blob/master/Readme_EN.md>
 
+* 至9月28日上午，没有进展。
+
 在听闻了很多开发者遇到过这个令人困扰的问题以后，终于，我现在遇到了它。我的开发者账号在9月26日被通知关停。
 
 这会导致我的所有apps从AppStore被下架。
