@@ -1,6 +1,8 @@
 中文：
 <https://github.com/bigdondon/apple_developer_issue/blob/master/README.md>
 
+* Until the morning of September 28, no progress.
+
 After hearing this troublesome issue times from developers, finally, I have encountered it now. My developer account was notified to be terminated on September 26th.
 
 This will cause all my apps to be removed from AppStore.
