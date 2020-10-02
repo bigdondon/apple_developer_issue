@@ -1,8 +1,36 @@
 中文：
 <https://github.com/bigdondon/apple_developer_issue/blob/master/README.md>
 
-* Until the morning of September 28, no progress.
+## Resolved. My developer account has been out of termination danger (October 2, 2020)
+I received a call from the Apple review team on the morning of October 2nd, telling me that my developer account will not be terminated. After I clearly stated that I have not violated the Apple Developer Guidelines, she hopes to continue developing and submitting apps in compliance with the guidelines in the future , and sent me the reason for rejection of the app which caused this incident, and told me to resubmit it for review after modification.
 
+At this point, the incident has been resolved and finally, an anxious week has ended.
+
+### I want say thanks to
++ My family
++ SSPAI（少数派） helped me actively contact and communicate
++ Ying Zhong, the author of JSBox and Pin, gave me lots of help and encouragement with patience, and reposted my voice on Weibo and Twitter
++ My developer friends
++ My users
++ People I do not know
+
+I'm sorry I can't write all the names, thank you for making my nearly two years of efforts away from fire.
+
+### The end
+Although I have many questions, although I wanted to ask them on the call, finally I chose to come to an end.
+
+The whole process is very exhausting, and I should keep going.
+
+Quoting a reply from a developer on twitter:
+
+- *We developers create amazing things because we love the platform. The relationship can no longer be one sided.*
+
+Transparency of review? Or communication? I hope it will be healthier in the future, so that developers will no longer spend energy where they shouldn’t stay.
+
+__Thanks to all！__
+
+___
+## The story
 After hearing this troublesome issue times from developers, finally, I have encountered it now. My developer account was notified to be terminated on September 26th.
 
 This will cause all my apps to be removed from AppStore.
