@@ -23,9 +23,9 @@ In English:
 
 引用twitter上一位开发者对我的回复：
 
-- *We developers create amazing things because we love the platform. The relationship can no longer be one sided. *
+- *We developers create amazing things because we love the platform. The relationship can no longer be one sided.
 
-- *我们开发者创造了不起的作品，是因为我们爱这个平台。这种关系不能再是单方面的。*
+- *我们开发者创造了不起的作品，是因为我们爱这个平台。这种关系不能再是单方面的。
 
 透明化也好，增加沟通也好，希望未来会更健康，让开发者不再耗费精力在不应停留的地方。
 
